@@ -57,7 +57,3 @@ You can adjust the system package manager command for your OS (e.g., `brew`, `dn
 :Lazy update   " Update plugins
 :Lazy clean    " Remove unused plugins
 ```
-
-## License
-
-MIT – see [LICENSE](LICENSE).
